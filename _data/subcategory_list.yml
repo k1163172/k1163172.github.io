@@ -2,15 +2,15 @@
 
 
 subcategory-one:
-  name: 현대판타지
+  name: 현대 판타지
   parent-category: using-subcategories
   parent-category-name: 카카오페이지
-  description: 현대판타지 장르 중에서 제일 유명한 작품을 설명해드릴게요.
+  description: 현대 판타지 장르 중에서 제일 유명한 작품을 설명해드릴게요.
 subcategory-two:
-  name: 로맨스판타지
+  name: 로맨스 판타지
   parent-category: using-subcategories
   parent-category-name: 카카오페이지
-  description: 로맨스판타지 장르 중에서 제일 유명한 작품을 설명해드릴게요.
+  description: 로맨스 판타지 장르 중에서 제일 유명한 작품을 설명해드릴게요.
 subcategory-three:
   name: 무협
   parent-category: using-subcategories
